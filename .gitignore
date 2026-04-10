@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+*.class
+out/
+build/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
